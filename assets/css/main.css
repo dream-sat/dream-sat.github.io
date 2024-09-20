@@ -10,16 +10,7 @@
 #footer {
     background-color: #f8f8f8; /* Optional: background color */
     padding: 20px; /* Add padding for some space */
-    text-align: center; /* Center text horizontally */
-}
-
-.inner {
-    display: flex; /* Enable flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically (optional) */
-    flex-direction: column; /* Stack items vertically */
-    max-width: 800px; /* Optional: max width for the inner content */
-    margin: 0 auto; /* Center the inner div if max-width is set */
+    text-align: left; /* Center text horizontally */
 }
 
 html, body, div, span, applet, object,
