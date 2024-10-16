@@ -283,7 +283,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 		pre code {
@@ -296,7 +296,7 @@ input, select, textarea {
 	hr {
 		border: 0;
 		border-bottom: solid 1px #c9c9c9;
-		margin: 2em 0;
+		margin: 1em 0;
 	}
 
 		hr.major {
@@ -308,11 +308,11 @@ input, select, textarea {
 	}
 
 	.align-center {
-		text-align: center;
+		text-align: left;
 	}
 
 	.align-right {
-		text-align: right;
+		text-align: left;
 	}
 
 /* Row */
